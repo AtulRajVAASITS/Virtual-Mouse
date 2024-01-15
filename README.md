@@ -1,6 +1,8 @@
 # Virtual-Mouse
 This is an implementation of virtual mouse using opencv and meadiapipe
 
+Please change the threshold variables in variables declaration section as per your needs.
+
 Requierments
 Python                    3.8
 mediapipe                 0.10.9
