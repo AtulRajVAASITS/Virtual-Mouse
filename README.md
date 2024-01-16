@@ -1,5 +1,5 @@
 # Virtual-Mouse
-This is an implementation of virtual mouse using opencv and meadiapipe where the original ideas are from https://github.com/rvk007/Advance-Computer-Vision.
+This is an implementation of virtual mouse using opencv and mediapipe where the original ideas are from https://github.com/rvk007/Advance-Computer-Vision.
 
 Please change the threshold variables in variables declaration section as per your needs.
 
